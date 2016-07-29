@@ -1,6 +1,7 @@
 # investmentux
 
 Other platforms / links
+
 https://fundrise.com/reits/growth-ereit/view
 https://www.equityeats.com/offerings/neseafood
 https://startupangels.com/market/dublin/
